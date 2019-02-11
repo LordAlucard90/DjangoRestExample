@@ -6,5 +6,7 @@ class Student(models.Model):
     surname = models.CharField(max_length=50, null=False)
     age = models.IntegerField(null=False)
 
+    def __str__(self):
+        return f"{self.name}, {self.surname}"
 
 
