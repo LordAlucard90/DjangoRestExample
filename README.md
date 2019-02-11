@@ -25,7 +25,7 @@ $ source env/bin/activate
 
 ## Urls
 
-**Home** http://127.0.0.1:8000/
-**Admin** http://127.0.0.1:8000/admin/
-**Students** http://127.0.0.1:8000/students/
+- **Home** http://127.0.0.1:8000/
+- **Admin** http://127.0.0.1:8000/admin/
+- **Students** http://127.0.0.1:8000/students/
 
